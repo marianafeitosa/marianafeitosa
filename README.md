@@ -17,25 +17,14 @@
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
+<br> 
 
-<p align="center"> 
-  <a href="https://www.w3.org/java/" target="_blank"> 
- <a href="https://emoji.gg/emoji/java"><img src="https://cdn3.emoji.gg/emojis/java.png" width="40px" height="40px" alt="java"></a>
- </a>
-  <a href="https://www.w3schools.com/typescript/" target="_blank"> 
-  <a href="https://emoji.gg/emoji/8584-typescript"><img src="https://cdn3.emoji.gg/emojis/8584-typescript.png" width="40px" height="40px" alt="TypeScript"></a>
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/csharp" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  </a>
- 
-</p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,php,github,figma,kotlin" align="center" />
+    <img src="https://skillicons.dev/icons?i=javascript,tailwind,java,mysql,laravel" align="center" /><br>
+</div>
+
+<br/>
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=marianafeitosa&theme=react&show_icons=true&include_all_commits=true" />
