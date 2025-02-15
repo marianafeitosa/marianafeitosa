@@ -3,7 +3,7 @@
 
 - <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> I'm 18 years old
 
-- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> I study at Etec Zona Leste 
+- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> I study at Fatec Zona Leste 
 
 - <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> I ❤️ Technology
 
